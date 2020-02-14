@@ -11,3 +11,5 @@ line8 -- push these two to remote repo
 
 branch line1
 branch line 2 second commit
+
+branch line 3 to test merge
