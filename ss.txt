@@ -13,3 +13,5 @@ branch line1
 branch line 2 second commit
 
 branch line 3 to test merge
+
+this is going to be a conflict (branch!)
