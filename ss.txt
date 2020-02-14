@@ -10,3 +10,4 @@ line7
 line8 -- push these two to remote repo
 
 branch line1
+branch line 2 second commit
