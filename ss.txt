@@ -6,13 +6,5 @@ line4
 line5
 line6
 
-line7
-line8 -- push these two to remote repo
-
-branch line1
-branch line 2 second commit
-
-branch line 3 to test merge
-
-This is going to be a conflict! (master)
-this is going to be a conflict (branch!)
+git stash line
+123123
